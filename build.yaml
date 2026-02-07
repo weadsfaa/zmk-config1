@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: nrfmicro_13
+  - board: nrf52840dk
     shield: corne_left
-  - board: nrfmicro_13
+  - board: nrf52840dk
     shield: corne_right
